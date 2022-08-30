@@ -1,0 +1,14 @@
+create a repo
+work with SSH
+
+create a folder with git init
+we will be commiting and push
+
+U represent 'UNTRACK'
+To add all the files just use git.add space . and you will have
+A which means ADDED
+git commit means you want to give the git a message and use git commit -m and double quote(" ") the add your message inside your string.
+ls-----To list directory
+M is called "MODIFIED"
+Anytime you add a new file you must commit with git commit -m " the message of the new file"
+git log will show you all the files you've worked on.
