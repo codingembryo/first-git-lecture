@@ -12,3 +12,7 @@ ls-----To list directory
 M is called "MODIFIED"
 Anytime you add a new file you must commit with git commit -m " the message of the new file"
 git log will show you all the files you've worked on.
+
+To push a file to your github profile
+use git push -u origin "the name of the file"
+example git push -u origin embryo.
