@@ -16,3 +16,14 @@ git log will show you all the files you've worked on.
 To push a file to your github profile
 use git push -u origin "the name of the file"
 example git push -u origin embryo.
+
+
+
+HOW TO CLONE FROM A GIT HUB TO YOUR github
+Create an empty folder in your desktop.Name the folder.
+right click and click git bash, and write git clone,then copy and paste from the github website 
+inside the git terminal.
+
+TO CREATE A BRANCH
+git branch -m Main
+
